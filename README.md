@@ -18,14 +18,6 @@ Topics: Web Development, Algorithms, Data Structures
 
 Tools: Git, Linux, VS Code
 
-📫 Get in Touch
-
-📧 Email: your.email@example.com
-
-💼 LinkedIn
-
-Thanks for visiting! 😃
-
 <!--
 **LeandroDV0/LeandroDV0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
